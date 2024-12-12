@@ -14,8 +14,11 @@ Accurate predictions: Differentiates between positive and negative sentiments ef
 Real-World Applications: Can be applied in areas like customer feedback analysis, understanding trends, or content moderation.
 
 ### 🎯 Why it Matters?
+
 ✅ Understand customer feedback for brand management.
+
 ✅ Identify trends in real-time social media data.
+
 ✅ Assist with content moderation on various platforms.
 
 ### 🙏 Acknowledgements
