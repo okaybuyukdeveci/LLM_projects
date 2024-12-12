@@ -22,5 +22,5 @@ Real-World Applications: Can be applied in areas like customer feedback analysis
 ✅ Assist with content moderation on various platforms.
 
 ### 🙏 Acknowledgements
-This project was inspired by the tutorials and notebooks created by Imran & Daniel Bourke. Their resources were invaluable in helping me build this model. A huge thank you to them for their outstanding contributions to the machine learning community!
+This project was inspired by the tutorials and notebooks created by Muhammad Imran Zaman & Daniel Bourke. Their resources were invaluable in helping me build this model. A huge thank you to them for their outstanding contributions to the machine learning community!
 
